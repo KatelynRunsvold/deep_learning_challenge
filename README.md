@@ -1,11 +1,14 @@
 # deep_learning_challenge
 Charity Fund Classification Model
+
 Overview
+
 This project aims to build a binary classification model to predict whether charity donations will be successful. Using a dataset of past donation applications, the model leverages features such as application type, classification, use case, organization, and more to forecast the success of future charity donations.
 
 The model is built using a deep learning neural network (TensorFlow/Keras) and employs techniques like data preprocessing, categorical encoding, scaling, and model evaluation.
 
 Dataset
+
 The dataset used in this project contains information about charity donation applications with the following key columns:
 
 APPLICATION_TYPE: The type of application submitted.
